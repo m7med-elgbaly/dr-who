@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "100936199114",
+    "firebase_url": "https://orbital-valor-335000-default-rtdb.firebaseio.com",
+    "project_id": "orbital-valor-335000",
+    "storage_bucket": "orbital-valor-335000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100936199114:android:d6cabad1ef33e323fcbd33",
+        "android_client_info": {
+          "package_name": "com.example.heathly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100936199114-754sspids0ujnhorbt6ni4van6fuh6f2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.heathly",
+            "certificate_hash": "93e03c0baa75410d21635bd36e0d51151a97c7dd"
+          }
+        },
+        {
+          "client_id": "100936199114-sng1id12ve3ai30hf4v9i7fp69rk859d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.heathly",
+            "certificate_hash": "0a99d028cae30c4c71a335a42bb12a4d0dedb4a1"
+          }
+        },
+        {
+          "client_id": "100936199114-7bsq1atgpe2rfeai40meag6m0uokmukc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyBU53wXQB0b3PxRqg1-1h1HpLVUNAmBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100936199114-7bsq1atgpe2rfeai40meag6m0uokmukc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
